@@ -30,7 +30,7 @@ Certified NFA Series 3.
 
 ### Stack
 
-`Python` · `R / Stan / brms` · `statsmodels · SARIMAX` · `FinBERT · BERT` · `scikit-learn · XGBoost` · `PyTorch` · `SQL · PowerBI · Tableau` · `FastAPI · Flask · pandas` · `SwiftUI` · `Claude Code · MCP · Ollama`
+`Python` · `R / Stan / brms` · `statsmodels · SARIMAX` · `FinBERT · BERT` · `scikit-learn · XGBoost` · `PyTorch` · `SQL · PowerBI · Tableau` · `FastAPI · Flask · pandas` · `SwiftUI` · `Claude Code · MCP · Ollama`· `C++ (learning)`
 
 ---
 
